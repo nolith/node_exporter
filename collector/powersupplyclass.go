@@ -12,7 +12,7 @@
 // limitations under the License.
 
 // +build !nopowersupplyclass
-// +build linux
+// +build linux darwin
 
 package collector
 
